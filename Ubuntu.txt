@@ -1,0 +1,35 @@
+Ubuntu
+control c pour quitter
+pour quitter vim :qa
+
+_si j'ai pas la perm: sudo
+_sudo su pour etre le super user 
+_exit pour perdre le mode dieu
+
+_cree un fichier: touch nom.type
+_midifier un fichier: nano nom.type
+_creee un dossier: mkdir nom
+_supprimer: rm nom.type nom.type  fichier -r le r pour supprimer le dossier et tout son contenu -f pour forcer et -rf pour les deux
+_copier : cp nom.type nom1.type
+_deplacer: mv nom.type 
+_pour lire : cat nom.type
+_ficher dans le dossier: ls
+
+_se deplacer: cd nomdossier pour aller et pour sortir cd..
+_..un dossier
+_../../ pour aller en retour de 2dossier
+_ls -l: pour voir les perm
+_ls -a: les info
+_la pour le deux
+
+
+_> pour inject dans ou cree
+exemple on veut mettre la commande ls -la dans un fichier exemple ls -la > caca/test.c
+_>> pour injecter a la suite
+
+_afficher: echo exemple
+et pour mettre ce que tu affiche dans un dossier echo caca > test.c
+
+
+
+
